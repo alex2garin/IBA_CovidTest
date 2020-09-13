@@ -1,0 +1,17 @@
+Hello! This is kind of main file
+It will be moved to rep as master.
+I want you all to create individual branchies
+Each of you should 
+1) clone this rep
+2) add new file with your surname in it
+3) add file's name to this file.
+4) then you should merge it to master and you shouldn't kill other's work)
+
+This is the line for Vlad and Inna
+"", ""
+This is the line for Nastja and Slava
+"", ""
+This is the line for Anns)
+"", ""
+
+Kind regards, Batja :p
