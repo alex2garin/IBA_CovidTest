@@ -8,7 +8,7 @@ Each of you should
 4) then you should merge it to master and you shouldn't kill other's work)
 
 This is the line for Vlad and Inna
-"", ""
+"hello_from_ina", ""
 This is the line for Nastja and Slava
 "", ""
 This is the line for Anns)
